@@ -1,1 +1,3 @@
-# genai-news
+# Intro
+Contains code realated to GenAI News.
+
